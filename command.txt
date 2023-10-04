@@ -1,0 +1,9 @@
+{
+  "key": 21,
+  "title": "Test Product",
+  "price": 12.99,
+  "description": "Product Description",
+  "category": "Agriculture",
+  "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftalkforbiz.com%2Fdescribe-the-characteristics-of-farming-and-agricultural-products-which-make-the-marketing-of-food-different-from-other-products%2F&psig=AOvVaw1olitcxPzUWtucqlrKfPVv&ust=1696348391343000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLin6M_c14EDFQAAAAAdAAAAABAQ",
+  "rating": { "rate": 3.6, "count": 145 }
+}
